@@ -18,7 +18,7 @@
     "vitest": "1.2.2"
   },
   "types": "./index.d.ts",
-  "name": "@btc-200k/js-tokens",
+  "name": "@btc-200k/btc-200k-js-tokens",
   "description": "The tiny, regex powered, lenient, _almost_ spec-compliant JavaScript tokenizer that never fails.",
   "main": "benchmark.js",
   "directories": {
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github-btc-200k:btc-200k/js-tokens.git"
+    "url": "git@github-btc-200k:btc-200k/btc-200k-js-tokens.git"
   },
   "author": "",
   "license": "ISC"
